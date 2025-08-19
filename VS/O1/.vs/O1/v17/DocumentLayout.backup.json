@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tahaa\\source\\repos\\O1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC02116-C0FD-41C5-97A3-B49B6BA150A6}|Oblig1\\Oblig1.csproj|c:\\users\\tahaa\\source\\repos\\o1\\oblig1\\punkt2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC02116-C0FD-41C5-97A3-B49B6BA150A6}|Oblig1\\Oblig1.csproj|solutionrelative:oblig1\\punkt2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC02116-C0FD-41C5-97A3-B49B6BA150A6}|Oblig1\\Oblig1.csproj|c:\\users\\tahaa\\source\\repos\\o1\\oblig1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC02116-C0FD-41C5-97A3-B49B6BA150A6}|Oblig1\\Oblig1.csproj|solutionrelative:oblig1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tahaa\\source\\repos\\O1\\Oblig1\\Program.cs",
+              "RelativeDocumentMoniker": "Oblig1\\Program.cs",
+              "ToolTip": "C:\\Users\\tahaa\\source\\repos\\O1\\Oblig1\\Program.cs*",
+              "RelativeToolTip": "Oblig1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:44:53.048Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Punkt2D.cs",
+              "DocumentMoniker": "C:\\Users\\tahaa\\source\\repos\\O1\\Oblig1\\Punkt2D.cs",
+              "RelativeDocumentMoniker": "Oblig1\\Punkt2D.cs",
+              "ToolTip": "C:\\Users\\tahaa\\source\\repos\\O1\\Oblig1\\Punkt2D.cs*",
+              "RelativeToolTip": "Oblig1\\Punkt2D.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:45:30.084Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

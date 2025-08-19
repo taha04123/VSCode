@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tahaa\\Source\\Repos\\_reposVS\\repos\\NO2\\NO2_O1\\NO2_O1.csproj",
+      "projectUniqueName": "C:\\Users\\tahaa\\source\\repos\\_reposVS\\VS\\NO2\\NO2_O1\\NO2_O1.csproj",
       "projectName": "NO2_O1",
-      "projectPath": "C:\\Users\\tahaa\\Source\\Repos\\_reposVS\\repos\\NO2\\NO2_O1\\NO2_O1.csproj",
+      "projectPath": "C:\\Users\\tahaa\\source\\repos\\_reposVS\\VS\\NO2\\NO2_O1\\NO2_O1.csproj",
       "packagesPath": "C:\\Users\\tahaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tahaa\\Source\\Repos\\_reposVS\\repos\\NO2\\NO2_O1\\obj\\",
+      "outputPath": "C:\\Users\\tahaa\\source\\repos\\_reposVS\\VS\\NO2\\NO2_O1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

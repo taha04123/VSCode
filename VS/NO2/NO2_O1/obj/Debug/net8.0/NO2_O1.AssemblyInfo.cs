@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NO2_O1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51ebca4479675d4a0dea094e6290621daaa4d6a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3c3d4dbdfc4c615a5f05ecd53da5c537c0e2e64")]
 [assembly: System.Reflection.AssemblyProductAttribute("NO2_O1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NO2_O1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

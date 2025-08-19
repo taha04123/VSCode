@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Posisjon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ekstraoppg\u00E5ver\\Posisjon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Krigsskip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ekstraoppg\u00E5ver\\Krigsskip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Lasteskip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ekstraoppg\u00E5ver\\Lasteskip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Skip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ekstraoppg\u00E5ver\\Skip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ekstraoppg\u00E5ver\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Program.cs",
+              "RelativeDocumentMoniker": "Ekstraoppg\u00E5ver\\Program.cs",
+              "ToolTip": "C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Program.cs",
+              "RelativeToolTip": "Ekstraoppg\u00E5ver\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:53:50.452Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Skip.cs",
+              "DocumentMoniker": "C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Skip.cs",
+              "RelativeDocumentMoniker": "Ekstraoppg\u00E5ver\\Skip.cs",
+              "ToolTip": "C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Skip.cs",
+              "RelativeToolTip": "Ekstraoppg\u00E5ver\\Skip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:06:00.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Krigsskip.cs",
+              "DocumentMoniker": "C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Krigsskip.cs",
+              "RelativeDocumentMoniker": "Ekstraoppg\u00E5ver\\Krigsskip.cs",
+              "ToolTip": "C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Krigsskip.cs",
+              "RelativeToolTip": "Ekstraoppg\u00E5ver\\Krigsskip.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:07:36.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lasteskip.cs",
+              "DocumentMoniker": "C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Lasteskip.cs",
+              "RelativeDocumentMoniker": "Ekstraoppg\u00E5ver\\Lasteskip.cs",
+              "ToolTip": "C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Lasteskip.cs",
+              "RelativeToolTip": "Ekstraoppg\u00E5ver\\Lasteskip.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:06:28.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Posisjon.cs",
+              "DocumentMoniker": "C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Posisjon.cs",
+              "RelativeDocumentMoniker": "Ekstraoppg\u00E5ver\\Posisjon.cs",
+              "ToolTip": "C:\\Users\\tahaa\\source\\repos\\Ekstraoppg\u00E5ver\\Ekstraoppg\u00E5ver\\Posisjon.cs",
+              "RelativeToolTip": "Ekstraoppg\u00E5ver\\Posisjon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:55:16.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

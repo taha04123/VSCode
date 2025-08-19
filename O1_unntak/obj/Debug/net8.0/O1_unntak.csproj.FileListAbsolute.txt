@@ -1,0 +1,14 @@
+C:\Users\tahaa\source\repos\O1_unntak\bin\Debug\net8.0\O1_unntak.exe
+C:\Users\tahaa\source\repos\O1_unntak\bin\Debug\net8.0\O1_unntak.deps.json
+C:\Users\tahaa\source\repos\O1_unntak\bin\Debug\net8.0\O1_unntak.runtimeconfig.json
+C:\Users\tahaa\source\repos\O1_unntak\bin\Debug\net8.0\O1_unntak.dll
+C:\Users\tahaa\source\repos\O1_unntak\bin\Debug\net8.0\O1_unntak.pdb
+C:\Users\tahaa\source\repos\O1_unntak\obj\Debug\net8.0\O1_unntak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\source\repos\O1_unntak\obj\Debug\net8.0\O1_unntak.AssemblyInfoInputs.cache
+C:\Users\tahaa\source\repos\O1_unntak\obj\Debug\net8.0\O1_unntak.AssemblyInfo.cs
+C:\Users\tahaa\source\repos\O1_unntak\obj\Debug\net8.0\O1_unntak.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\source\repos\O1_unntak\obj\Debug\net8.0\O1_unntak.dll
+C:\Users\tahaa\source\repos\O1_unntak\obj\Debug\net8.0\refint\O1_unntak.dll
+C:\Users\tahaa\source\repos\O1_unntak\obj\Debug\net8.0\O1_unntak.pdb
+C:\Users\tahaa\source\repos\O1_unntak\obj\Debug\net8.0\O1_unntak.genruntimeconfig.cache
+C:\Users\tahaa\source\repos\O1_unntak\obj\Debug\net8.0\ref\O1_unntak.dll

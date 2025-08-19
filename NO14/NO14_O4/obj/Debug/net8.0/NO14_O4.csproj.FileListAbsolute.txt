@@ -1,0 +1,14 @@
+C:\Users\tahaa\source\repos\NO14\NO14_O4\bin\Debug\net8.0\NO14_O4.exe
+C:\Users\tahaa\source\repos\NO14\NO14_O4\bin\Debug\net8.0\NO14_O4.deps.json
+C:\Users\tahaa\source\repos\NO14\NO14_O4\bin\Debug\net8.0\NO14_O4.runtimeconfig.json
+C:\Users\tahaa\source\repos\NO14\NO14_O4\bin\Debug\net8.0\NO14_O4.dll
+C:\Users\tahaa\source\repos\NO14\NO14_O4\bin\Debug\net8.0\NO14_O4.pdb
+C:\Users\tahaa\source\repos\NO14\NO14_O4\obj\Debug\net8.0\NO14_O4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\source\repos\NO14\NO14_O4\obj\Debug\net8.0\NO14_O4.AssemblyInfoInputs.cache
+C:\Users\tahaa\source\repos\NO14\NO14_O4\obj\Debug\net8.0\NO14_O4.AssemblyInfo.cs
+C:\Users\tahaa\source\repos\NO14\NO14_O4\obj\Debug\net8.0\NO14_O4.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\source\repos\NO14\NO14_O4\obj\Debug\net8.0\NO14_O4.dll
+C:\Users\tahaa\source\repos\NO14\NO14_O4\obj\Debug\net8.0\refint\NO14_O4.dll
+C:\Users\tahaa\source\repos\NO14\NO14_O4\obj\Debug\net8.0\NO14_O4.pdb
+C:\Users\tahaa\source\repos\NO14\NO14_O4\obj\Debug\net8.0\NO14_O4.genruntimeconfig.cache
+C:\Users\tahaa\source\repos\NO14\NO14_O4\obj\Debug\net8.0\ref\NO14_O4.dll

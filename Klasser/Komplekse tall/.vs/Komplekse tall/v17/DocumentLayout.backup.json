@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tahaa\\source\\repos\\Klasser\\Komplekse tall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C2051-9119-4306-AF46-6D497B344037}|Komplekse tall.csproj|c:\\users\\tahaa\\source\\repos\\klasser\\komplekse tall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C2051-9119-4306-AF46-6D497B344037}|Komplekse tall.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5C2051-9119-4306-AF46-6D497B344037}|Komplekse tall.csproj|c:\\users\\tahaa\\source\\repos\\klasser\\komplekse tall\\komplekstall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5C2051-9119-4306-AF46-6D497B344037}|Komplekse tall.csproj|solutionrelative:komplekstall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tahaa\\source\\repos\\Klasser\\Komplekse tall\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tahaa\\source\\repos\\Klasser\\Komplekse tall\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:43:52.498Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Komplekstall.cs",
+              "DocumentMoniker": "C:\\Users\\tahaa\\source\\repos\\Klasser\\Komplekse tall\\Komplekstall.cs",
+              "RelativeDocumentMoniker": "Komplekstall.cs",
+              "ToolTip": "C:\\Users\\tahaa\\source\\repos\\Klasser\\Komplekse tall\\Komplekstall.cs*",
+              "RelativeToolTip": "Komplekstall.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:44:44.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

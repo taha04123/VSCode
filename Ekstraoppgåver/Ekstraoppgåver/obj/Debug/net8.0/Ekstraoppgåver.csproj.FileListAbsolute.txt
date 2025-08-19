@@ -1,0 +1,14 @@
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\bin\Debug\net8.0\Ekstraoppgåver.exe
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\bin\Debug\net8.0\Ekstraoppgåver.deps.json
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\bin\Debug\net8.0\Ekstraoppgåver.runtimeconfig.json
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\bin\Debug\net8.0\Ekstraoppgåver.dll
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\bin\Debug\net8.0\Ekstraoppgåver.pdb
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\obj\Debug\net8.0\Ekstraoppgåver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\obj\Debug\net8.0\Ekstraoppgåver.AssemblyInfoInputs.cache
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\obj\Debug\net8.0\Ekstraoppgåver.AssemblyInfo.cs
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\obj\Debug\net8.0\Ekstraoppgåver.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\obj\Debug\net8.0\Ekstraoppgåver.dll
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\obj\Debug\net8.0\refint\Ekstraoppgåver.dll
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\obj\Debug\net8.0\Ekstraoppgåver.pdb
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\obj\Debug\net8.0\Ekstraoppgåver.genruntimeconfig.cache
+C:\Users\tahaa\source\repos\Ekstraoppgåver\Ekstraoppgåver\obj\Debug\net8.0\ref\Ekstraoppgåver.dll

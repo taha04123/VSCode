@@ -1,0 +1,14 @@
+C:\Users\tahaa\source\repos\O3\bin\Debug\net8.0\O3.exe
+C:\Users\tahaa\source\repos\O3\bin\Debug\net8.0\O3.deps.json
+C:\Users\tahaa\source\repos\O3\bin\Debug\net8.0\O3.runtimeconfig.json
+C:\Users\tahaa\source\repos\O3\bin\Debug\net8.0\O3.dll
+C:\Users\tahaa\source\repos\O3\bin\Debug\net8.0\O3.pdb
+C:\Users\tahaa\source\repos\O3\obj\Debug\net8.0\O3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\source\repos\O3\obj\Debug\net8.0\O3.AssemblyInfoInputs.cache
+C:\Users\tahaa\source\repos\O3\obj\Debug\net8.0\O3.AssemblyInfo.cs
+C:\Users\tahaa\source\repos\O3\obj\Debug\net8.0\O3.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\source\repos\O3\obj\Debug\net8.0\O3.dll
+C:\Users\tahaa\source\repos\O3\obj\Debug\net8.0\refint\O3.dll
+C:\Users\tahaa\source\repos\O3\obj\Debug\net8.0\O3.pdb
+C:\Users\tahaa\source\repos\O3\obj\Debug\net8.0\O3.genruntimeconfig.cache
+C:\Users\tahaa\source\repos\O3\obj\Debug\net8.0\ref\O3.dll

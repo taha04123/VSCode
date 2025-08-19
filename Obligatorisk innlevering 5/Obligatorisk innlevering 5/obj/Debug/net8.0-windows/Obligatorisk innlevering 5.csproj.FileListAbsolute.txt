@@ -1,0 +1,17 @@
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\bin\Debug\net8.0-windows\Obligatorisk innlevering 5.exe
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\bin\Debug\net8.0-windows\Obligatorisk innlevering 5.deps.json
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\bin\Debug\net8.0-windows\Obligatorisk innlevering 5.runtimeconfig.json
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\bin\Debug\net8.0-windows\Obligatorisk innlevering 5.dll
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\bin\Debug\net8.0-windows\Obligatorisk innlevering 5.pdb
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\obj\Debug\net8.0-windows\Obligatorisk_innlevering_5.Form1.resources
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\obj\Debug\net8.0-windows\Obligatorisk_innlevering_5.Form2.resources
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\obj\Debug\net8.0-windows\Obligatorisk innlevering 5.csproj.GenerateResource.cache
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\obj\Debug\net8.0-windows\Obligatorisk innlevering 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\obj\Debug\net8.0-windows\Obligatorisk innlevering 5.AssemblyInfoInputs.cache
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\obj\Debug\net8.0-windows\Obligatorisk innlevering 5.AssemblyInfo.cs
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\obj\Debug\net8.0-windows\Obligatorisk innlevering 5.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\obj\Debug\net8.0-windows\Obligatorisk innlevering 5.dll
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\obj\Debug\net8.0-windows\refint\Obligatorisk innlevering 5.dll
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\obj\Debug\net8.0-windows\Obligatorisk innlevering 5.pdb
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\obj\Debug\net8.0-windows\Obligatorisk innlevering 5.genruntimeconfig.cache
+C:\Users\tahaa\source\repos\Obligatorisk innlevering 5\Obligatorisk innlevering 5\obj\Debug\net8.0-windows\ref\Obligatorisk innlevering 5.dll

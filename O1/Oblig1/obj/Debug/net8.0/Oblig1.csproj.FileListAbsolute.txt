@@ -1,0 +1,14 @@
+C:\Users\tahaa\source\repos\O1\Oblig1\bin\Debug\net8.0\Oblig1.exe
+C:\Users\tahaa\source\repos\O1\Oblig1\bin\Debug\net8.0\Oblig1.deps.json
+C:\Users\tahaa\source\repos\O1\Oblig1\bin\Debug\net8.0\Oblig1.runtimeconfig.json
+C:\Users\tahaa\source\repos\O1\Oblig1\bin\Debug\net8.0\Oblig1.dll
+C:\Users\tahaa\source\repos\O1\Oblig1\bin\Debug\net8.0\Oblig1.pdb
+C:\Users\tahaa\source\repos\O1\Oblig1\obj\Debug\net8.0\Oblig1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\source\repos\O1\Oblig1\obj\Debug\net8.0\Oblig1.AssemblyInfoInputs.cache
+C:\Users\tahaa\source\repos\O1\Oblig1\obj\Debug\net8.0\Oblig1.AssemblyInfo.cs
+C:\Users\tahaa\source\repos\O1\Oblig1\obj\Debug\net8.0\Oblig1.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\source\repos\O1\Oblig1\obj\Debug\net8.0\Oblig1.dll
+C:\Users\tahaa\source\repos\O1\Oblig1\obj\Debug\net8.0\refint\Oblig1.dll
+C:\Users\tahaa\source\repos\O1\Oblig1\obj\Debug\net8.0\Oblig1.pdb
+C:\Users\tahaa\source\repos\O1\Oblig1\obj\Debug\net8.0\Oblig1.genruntimeconfig.cache
+C:\Users\tahaa\source\repos\O1\Oblig1\obj\Debug\net8.0\ref\Oblig1.dll

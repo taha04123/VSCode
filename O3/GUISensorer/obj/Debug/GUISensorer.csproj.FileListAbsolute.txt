@@ -1,0 +1,10 @@
+C:\Users\tahaa\source\repos\O3\GUISensorer\bin\Debug\GUISensorer.exe.config
+C:\Users\tahaa\source\repos\O3\GUISensorer\bin\Debug\GUISensorer.exe
+C:\Users\tahaa\source\repos\O3\GUISensorer\bin\Debug\GUISensorer.pdb
+C:\Users\tahaa\source\repos\O3\GUISensorer\obj\Debug\GUISensorer.csproj.AssemblyReference.cache
+C:\Users\tahaa\source\repos\O3\GUISensorer\obj\Debug\GUISensorer.Form1.resources
+C:\Users\tahaa\source\repos\O3\GUISensorer\obj\Debug\GUISensorer.Properties.Resources.resources
+C:\Users\tahaa\source\repos\O3\GUISensorer\obj\Debug\GUISensorer.csproj.GenerateResource.cache
+C:\Users\tahaa\source\repos\O3\GUISensorer\obj\Debug\GUISensorer.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\source\repos\O3\GUISensorer\obj\Debug\GUISensorer.exe
+C:\Users\tahaa\source\repos\O3\GUISensorer\obj\Debug\GUISensorer.pdb

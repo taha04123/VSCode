@@ -1,0 +1,17 @@
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\bin\Debug\net8.0-windows\OBLIG5.exe
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\bin\Debug\net8.0-windows\OBLIG5.deps.json
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\bin\Debug\net8.0-windows\OBLIG5.runtimeconfig.json
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\bin\Debug\net8.0-windows\OBLIG5.dll
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\bin\Debug\net8.0-windows\OBLIG5.pdb
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\obj\Debug\net8.0-windows\OBLIG5.Form1.resources
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\obj\Debug\net8.0-windows\OBLIG5.Form2.resources
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\obj\Debug\net8.0-windows\OBLIG5.csproj.GenerateResource.cache
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\obj\Debug\net8.0-windows\OBLIG5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\obj\Debug\net8.0-windows\OBLIG5.AssemblyInfoInputs.cache
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\obj\Debug\net8.0-windows\OBLIG5.AssemblyInfo.cs
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\obj\Debug\net8.0-windows\OBLIG5.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\obj\Debug\net8.0-windows\OBLIG5.dll
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\obj\Debug\net8.0-windows\refint\OBLIG5.dll
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\obj\Debug\net8.0-windows\OBLIG5.pdb
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\obj\Debug\net8.0-windows\OBLIG5.genruntimeconfig.cache
+C:\Users\tahaa\source\repos\OBLIG5\OBLIG5\obj\Debug\net8.0-windows\ref\OBLIG5.dll

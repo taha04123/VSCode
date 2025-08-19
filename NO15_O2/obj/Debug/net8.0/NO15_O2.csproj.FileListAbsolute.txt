@@ -1,0 +1,14 @@
+C:\Users\tahaa\source\repos\NO15_O2\bin\Debug\net8.0\NO15_O2.exe
+C:\Users\tahaa\source\repos\NO15_O2\bin\Debug\net8.0\NO15_O2.deps.json
+C:\Users\tahaa\source\repos\NO15_O2\bin\Debug\net8.0\NO15_O2.runtimeconfig.json
+C:\Users\tahaa\source\repos\NO15_O2\bin\Debug\net8.0\NO15_O2.dll
+C:\Users\tahaa\source\repos\NO15_O2\bin\Debug\net8.0\NO15_O2.pdb
+C:\Users\tahaa\source\repos\NO15_O2\obj\Debug\net8.0\NO15_O2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\source\repos\NO15_O2\obj\Debug\net8.0\NO15_O2.AssemblyInfoInputs.cache
+C:\Users\tahaa\source\repos\NO15_O2\obj\Debug\net8.0\NO15_O2.AssemblyInfo.cs
+C:\Users\tahaa\source\repos\NO15_O2\obj\Debug\net8.0\NO15_O2.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\source\repos\NO15_O2\obj\Debug\net8.0\NO15_O2.dll
+C:\Users\tahaa\source\repos\NO15_O2\obj\Debug\net8.0\refint\NO15_O2.dll
+C:\Users\tahaa\source\repos\NO15_O2\obj\Debug\net8.0\NO15_O2.pdb
+C:\Users\tahaa\source\repos\NO15_O2\obj\Debug\net8.0\NO15_O2.genruntimeconfig.cache
+C:\Users\tahaa\source\repos\NO15_O2\obj\Debug\net8.0\ref\NO15_O2.dll

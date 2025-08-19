@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tahaa\\source\\repos\\Klasser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05FDF161-514B-4C92-B92E-A27508C9F831}|N01-O1\\N01-O1.csproj|c:\\users\\tahaa\\source\\repos\\klasser\\n01-o1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FDF161-514B-4C92-B92E-A27508C9F831}|N01-O1\\N01-O1.csproj|solutionrelative:n01-o1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FDF161-514B-4C92-B92E-A27508C9F831}|N01-O1\\N01-O1.csproj|c:\\users\\tahaa\\source\\repos\\klasser\\n01-o1\\rektangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FDF161-514B-4C92-B92E-A27508C9F831}|N01-O1\\N01-O1.csproj|solutionrelative:n01-o1\\rektangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tahaa\\source\\repos\\Klasser\\N01-O1\\Program.cs",
+              "RelativeDocumentMoniker": "N01-O1\\Program.cs",
+              "ToolTip": "C:\\Users\\tahaa\\source\\repos\\Klasser\\N01-O1\\Program.cs*",
+              "RelativeToolTip": "N01-O1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:04:31.867Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rektangel.cs",
+              "DocumentMoniker": "C:\\Users\\tahaa\\source\\repos\\Klasser\\N01-O1\\Rektangel.cs",
+              "RelativeDocumentMoniker": "N01-O1\\Rektangel.cs",
+              "ToolTip": "C:\\Users\\tahaa\\source\\repos\\Klasser\\N01-O1\\Rektangel.cs*",
+              "RelativeToolTip": "N01-O1\\Rektangel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:09:52.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

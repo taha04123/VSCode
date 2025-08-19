@@ -1,0 +1,14 @@
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\obj\Debug\net8.0\Oppgåve2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\obj\Debug\net8.0\Oppgåve2.AssemblyInfoInputs.cache
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\obj\Debug\net8.0\Oppgåve2.AssemblyInfo.cs
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\obj\Debug\net8.0\Oppgåve2.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\bin\Debug\net8.0\Oppgåve2.exe
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\bin\Debug\net8.0\Oppgåve2.deps.json
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\bin\Debug\net8.0\Oppgåve2.runtimeconfig.json
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\bin\Debug\net8.0\Oppgåve2.dll
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\bin\Debug\net8.0\Oppgåve2.pdb
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\obj\Debug\net8.0\Oppgåve2.dll
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\obj\Debug\net8.0\refint\Oppgåve2.dll
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\obj\Debug\net8.0\Oppgåve2.pdb
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\obj\Debug\net8.0\Oppgåve2.genruntimeconfig.cache
+C:\Users\tahaa\source\repos\EksamenV24\Oppgåve2\obj\Debug\net8.0\ref\Oppgåve2.dll
